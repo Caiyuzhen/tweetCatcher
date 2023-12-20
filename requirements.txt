@@ -1,0 +1,3 @@
+beautifulsoup4
+selenium
+load_dotenv # 加载环境变量
